@@ -1,0 +1,13 @@
+.grey{
+    width: 200px;
+    height: 250px;
+    background-color: grey;
+    margin-left: 20px;
+    position: relative;
+    top: 20px;
+}
+.grey:hover{
+    width: 200px;
+    height: 250px;
+    background-color:rgb(210, 207, 207) ;
+}

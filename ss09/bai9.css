@@ -1,0 +1,12 @@
+#square{
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+#square:hover{
+    width: 200px;
+    height: 100px;
+    background: antiquewhite;
+    border-radius: 100px/50px;
+}

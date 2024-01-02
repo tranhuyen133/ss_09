@@ -1,0 +1,16 @@
+
+#help{
+    background-color: beige;
+}
+
+#sell{
+    background-color: antiquewhite;
+    padding-left: 1.8em;
+    color: red;
+}
+#buy{
+    background-color: beige;
+}
+#pay{
+    background-color: beige;
+}

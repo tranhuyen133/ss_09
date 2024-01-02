@@ -1,0 +1,25 @@
+
+.item{
+    width: 400px;
+    height: 300px;                          ;
+    box-shadow : rgb(75, 54, 54);
+}
+.image img{
+    width: 400px;
+    margin-left: 200px;
+    
+}
+h4{
+    position: absolute;
+    top: 340px;
+    left: 330px;
+    font-weight: bold;
+    color: antiquewhite;
+}
+p{
+    position: absolute;
+    top: 370px;
+    left: 300px;
+    font-weight: bold;
+    color: antiquewhite;
+}
